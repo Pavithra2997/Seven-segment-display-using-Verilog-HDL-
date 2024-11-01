@@ -1,7 +1,14 @@
+# NAME : PAVITHRA K
+# REG NO : 212222060173
+# DATE : 
+# EX NO 2 :  SIMULATION AND IMPLEMENTATION OF SEVEN SEGMENT DISPLAY
+
 Aim
+
 To design and simulate a seven-segment display driver using Verilog HDL, and verify its functionality through a testbench in the Vivado 2023.1 environment. The objective is to implement the logic that converts a 4-bit binary input into the corresponding 7-segment display output for the digits 0 to 9.
 
 Apparatus Required
+
 Vivado 2023.1
 Computer system with a suitable operating system.
 
