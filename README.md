@@ -1,7 +1,7 @@
 # NAME : PAVITHRA K
 # REG NO : 212222060173
 # DATE : 
-# EX NO 2 :  SIMULATION AND IMPLEMENTATION OF SEVEN SEGMENT DISPLAY
+# EX NO 2 :  SIMULATION AND IMPLEMENTATION OF SEVEN SEGMENT DISPLAY IN VERILOG HDL
 
 ## AIM
 
@@ -103,5 +103,6 @@ endmodule
 ```
 ![Screenshot (11)](https://github.com/user-attachments/assets/369f2a21-46e0-437c-a1a3-2edbd52bf5e0)
 
-Conclusion
+## CONCLUSION
+
 In this experiment, a seven-segment display driver was successfully designed and simulated using Verilog HDL. The simulation results confirmed that the display correctly represented the digits 0 to 9 based on the 4-bit binary input. The testbench effectively verified the functionality of the seven-segment display by applying various input combinations and observing the corresponding segment outputs. This experiment highlights how Verilog HDL can be used to control hardware components like a seven-segment display in digital systems.
